@@ -1,1 +1,2 @@
-<img src="https://ibb.co/LhpTGVf2" width="100">
+
+ ![Texto Alternativo](https://ibb.co/LhpTGVf2)
