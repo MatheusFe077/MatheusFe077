@@ -1,1 +1,3 @@
-<img src="https://ibb.co/LhpTGVf2" alt="Minha imagem" width="100%">
+<p align="center">
+    <img src="https://ibb.co/MLpLpj1" width="500">
+</p>
