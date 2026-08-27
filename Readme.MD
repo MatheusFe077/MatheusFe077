@@ -29,57 +29,47 @@ const Matheus = {
     foco: "💻 Programação",
     objetivo: "🚀 Evoluir"
 };
-
-
-
-
-
-
-</p>
-
-🟠 > O que eu gosto
+🟠 > Tecnologias
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-F97316?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-F97316?style=for-the-badge&logo=github&logoColor=white"> </p>
+🟠 > Meus interesses
 
 🎵 Música
+
 🎮 Jogos virtuais
+
 🏐 Vôlei
+
 ⚽ Futebol
-👥 Amigos
-💻 Tecnologia
+
+👥 Passar tempo com meus amigos
+
+💻 Programação
 
 🟠 > Meu objetivo
-┌────────────────────────────────────────┐
-│                                        │
-│       💻 APRENDER                      │
-│            ↓                           │
-│       🧠 PRATICAR                      │
-│            ↓                           │
-│       🔧 CRIAR                         │
-│            ↓                           │
-│       🚀 EVOLUIR                       │
-│                                        │
-└────────────────────────────────────────┘
+<p align="center">
+💻 APRENDER → 🧠 PRATICAR → 🔧 CRIAR → 🚀 EVOLUIR
+</p>
 
 Quero evoluir bastante na programação, aprender novas tecnologias e criar projetos cada vez melhores.
 
+🟠 > Atualmente
+🎓 Estudante
+💻 Programador em formação
+🎮 Gamer
+🎵 Amante de música
+🏐 Vôlei
+⚽ Futebol
+😂 Engraçado
+📚 Sempre aprendendo
+🚀 Sempre evoluindo
 <p align="center">
-
 🟠 Always learning. Always evolving. 🚀
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=F97316&style=for-the-badge&label=PROFILE+VIEWS">
-
-</p>
-
+<img src="https://komarev.com/ghpvc/?username=MatheusFe077&color=F97316&style=for-the-badge&label=PROFILE+VIEWS"> </p>
 $ git add .
-$ git commit -m "evoluindo 🚀"
+$ git commit -m "continuando a evoluir 🚀"
 $ git push origin main
 
-> Successfully pushed! 🟠
-
-<p align="center"> <b>🟠 Obrigado por visitar meu perfil! 🟠</b> </p>
-Profile loaded successfully.
-
-User: Matheus
-Age: 16
-Status: Learning
-Goal: Evolve
-Mood: 🚀
+> Evolution successfully pushed! 🟠
+<p align="center">
+🟠 Obrigado por visitar meu perfil! 🟠
+</p> ```
