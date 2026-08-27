@@ -1,6 +1,6 @@
 <img width="735" height="414" alt="Image" src="https://github.com/user-attachments/assets/c7d596a9-71b1-4c84-916b-6d84d483493a" />
 
-# 🟠 MATHEUS — `Developer in Progress`
+#  MATHEUS — `Developer in Progress`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Matheus!;Tenho+16+anos+%F0%9F%9F%A0;Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Sempre+buscando+evoluir+%F0%9F%9A%80">
@@ -8,7 +8,7 @@
 
 ---
 
-## 🟠 `> Sobre mim`
+##  `> Sobre mim`
 
 **Olá! Eu sou o Matheus, tenho 16 anos e estudo Desenvolvimento de Sistemas.**
 
@@ -29,9 +29,9 @@ const Matheus = {
     foco: "💻 Programação",
     objetivo: "🚀 Evoluir"
 };
-🟠 > Tecnologias
+ > Tecnologias
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-F97316?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-F97316?style=for-the-badge&logo=github&logoColor=white"> </p>
-🟠 > Meus interesses
+ > Meus interesses
 
 🎵 Música
 
@@ -45,14 +45,14 @@ const Matheus = {
 
 💻 Programação
 
-🟠 > Meu objetivo
+ > Meu objetivo
 <p align="center">
 💻 APRENDER → 🧠 PRATICAR → 🔧 CRIAR → 🚀 EVOLUIR
 </p>
 
 Quero evoluir bastante na programação, aprender novas tecnologias e criar projetos cada vez melhores.
 
-🟠 > Atualmente
+ > Atualmente
 🎓 Estudante
 💻 Programador em formação
 🎮 Gamer
@@ -63,13 +63,15 @@ Quero evoluir bastante na programação, aprender novas tecnologias e criar proj
 📚 Sempre aprendendo
 🚀 Sempre evoluindo
 <p align="center">
-🟠 Always learning. Always evolving. 🚀
+ Always learning. Always evolving. 🚀
 <img src="https://komarev.com/ghpvc/?username=MatheusFe077&color=F97316&style=for-the-badge&label=PROFILE+VIEWS"> </p>
 $ git add .
 $ git commit -m "continuando a evoluir 🚀"
 $ git push origin main
 
-> Evolution successfully pushed! 🟠
+> Evolution successfully pushed! 
 <p align="center">
-🟠 Obrigado por visitar meu perfil! 🟠
+ Obrigado por visitar meu perfil! 
 </p> ```
+
+<img width="735" height="414" alt="Image" src="https://i.pinimg.com/1200x/35/fe/ee/35feee3e5b48b33cd1809f2d449c78ff.jpg" />
