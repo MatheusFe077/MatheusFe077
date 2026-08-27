@@ -1,7 +1,6 @@
 <img width="735" height="414" alt="Image" src="https://github.com/user-attachments/assets/c7d596a9-71b1-4c84-916b-6d84d483493a" />
- MATHEUS — Developer in Progress
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Olá%2C+eu+sou+o+Matheus!;Tenho+16+anos+%F0%9F%9F%A0;Estudante+de+Desenvolvimento+de+Sistemas;Sempre+buscando+evoluir+%F0%9F%9A%80" /> </p>
+MATHEUS — Developer in Progress
 
 > Sobre mim
 
