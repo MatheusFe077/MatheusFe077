@@ -1,26 +1,34 @@
 <img width="735" height="414" alt="Image" src="https://github.com/user-attachments/assets/c7d596a9-71b1-4c84-916b-6d84d483493a" />
 
-MATHEUS — Developer in Progress
+# 🟠 MATHEUS — `Developer in Progress`
 
-> Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Matheus!;Tenho+16+anos+%F0%9F%9F%A0;Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Sempre+buscando+evoluir+%F0%9F%9A%80">
+</p>
 
-Olá! Eu sou o Matheus, tenho 16 anos e estudo Desenvolvimento de Sistemas.
+---
 
-Sou uma pessoa engraçada, curiosa e que gosta de aprender.
-No meu tempo livre gosto de música 🎵, jogos 🎮, vôlei 🏐, futebol ⚽ e passar tempo com meus amigos.
+## 🟠 `> Sobre mim`
 
+**Olá! Eu sou o Matheus, tenho 16 anos e estudo Desenvolvimento de Sistemas.**
+
+Sou uma pessoa **engraçada, curiosa e que gosta de aprender**.
+
+🎵 Música • 🎮 Jogos • 🏐 Vôlei • ⚽ Futebol • 👥 Amigos • 💻 Tecnologia
+
+```js
 const Matheus = {
     idade: 16,
     personalidade: "Engraçado 😎",
-    hobbies: ["Música 🎵", "Jogos 🎮", "Vôlei 🏐", "Futebol ⚽"],
-    foco: "Programação 💻",
-    objetivo: "Evoluir 🚀"
+    hobbies: [
+        "🎵 Música",
+        "🎮 Jogos",
+        "🏐 Vôlei",
+        "⚽ Futebol"
+    ],
+    foco: "💻 Programação",
+    objetivo: "🚀 Evoluir"
 };
-🟠 > Tecnologias & Aprendizado
-
-<p align="center">
-
-
 
 
 
