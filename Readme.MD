@@ -74,4 +74,4 @@ $ git push origin main
  Obrigado por visitar meu perfil! 
 </p> ```
 
-<img width="735" height="414" alt="Image" src="https://i.pinimg.com/1200x/35/fe/ee/35feee3e5b48b33cd1809f2d449c78ff.jpg" />
+
